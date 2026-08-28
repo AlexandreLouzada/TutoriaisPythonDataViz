@@ -1,0 +1,16 @@
+cidade;estado;uf;regiao;lat;lon;populacao_milhoes;vendas_anuais;lojas
+São Paulo;São Paulo;SP;Sudeste;-23.5505;-46.6333;12.4;1200.5;45
+Rio de Janeiro;Rio de Janeiro;RJ;Sudeste;-22.9068;-43.1729;6.7;850.3;30
+Belo Horizonte;Minas Gerais;MG;Sudeste;-19.9167;-43.9345;2.5;620.8;22
+Brasília;Distrito Federal;DF;Centro-Oeste;-15.7801;-47.9292;3.0;580.9;18
+Salvador;Bahia;BA;Nordeste;-12.9777;-38.5016;2.9;470.2;15
+Porto Alegre;Rio Grande do Sul;RS;Sul;-30.0346;-51.2177;1.5;380.4;12
+Recife;Pernambuco;PE;Nordeste;-8.0476;-34.8770;1.6;350.1;11
+Fortaleza;Ceará;CE;Nordeste;-3.7319;-38.5267;2.7;420.6;13
+Manaus;Amazonas;AM;Norte;-3.1190;-60.0217;2.2;310.2;8
+Curitiba;Paraná;PR;Sul;-25.4284;-49.2733;1.9;450.7;14
+Florianópolis;Santa Catarina;SC;Sul;-27.5945;-48.5477;0.5;210.5;6
+Belém;Pará;PA;Norte;-1.4558;-48.4902;1.5;260.3;7
+Goiânia;Goiás;GO;Centro-Oeste;-16.6864;-49.2643;1.5;340.9;9
+Natal;Rio Grande do Norte;RN;Nordeste;-5.7945;-35.2110;1.0;240.8;5
+Cuiabá;Mato Grosso;MT;Centro-Oeste;-15.6014;-56.0979;0.6;180.4;4
